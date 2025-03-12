@@ -1,0 +1,2 @@
+# Account_System_Integration_Script
+[J]普通の静的サイトにローカルストレージフル活用でアカウントシステムのようなものを実装できるスクリプト
