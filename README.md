@@ -10,7 +10,8 @@
 ユーザー名を葉摘 優とし、画像を別スクリプトで設定した例  
 実装例  
 (CaffeineファミリーのCSS[CaffeineCSS or FSLinear]を同時に御利用下さい。クラスはGとなっています。)  
-```kore.html
+
+``` kore.html
 <div class="G" style="position: absolute; top: 15vh; right: 5px;" id="accountdetails">
         <p onclick="closeaccountdiv()" id="asis1">閉じる</p>
         <a href="https://caffeineapps.pages.dev/account" target="_blank"><img src="./ic.png" style="height: 50px; border-radius: 500px;" id="accountview"></a>
