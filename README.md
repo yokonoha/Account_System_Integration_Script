@@ -6,7 +6,8 @@
 どんなサイトでも動くとは限らないので、[J]なコード(ジャンク)です!  
 ここから入手する場合はMITライセンス、CaffeineAppsのリポジトリから入手する場合横茶横葉Bライセンスが適用されます。  
 ## 例  
-<img src="./rei.png" width="40%">
+<img src="./rei.png" width="40%"/>
+ユーザー名を葉摘 優とし、画像を別スクリプトで設定した例  
 実装例  
 (CaffeineファミリーのCSS[CaffeineCSS or FSLinear]を同時に御利用下さい。クラスはGとなっています。)  
 ```kore.html
