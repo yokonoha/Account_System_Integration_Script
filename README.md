@@ -8,7 +8,8 @@
 ## 例  
 <img src="./rei.png" width="40%"/>
 ユーザー名を葉摘 優とし、画像を別スクリプトで設定した例  
-実装例  
+
+## 実装例  
 (CaffeineファミリーのCSS[CaffeineCSS or FSLinear]を同時に御利用下さい。クラスはGとなっています。)  
 
 ``` kore.html
